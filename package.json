@@ -1,0 +1,19 @@
+{
+  "name": "mogrt-render",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nexrender/core": "^1.39.4",
+    "commander": "^9.4.0",
+    "nexrender-action-mogrt-template": "^0.0.4",
+    "tempy": "^3.0.0",
+    "which": "^2.0.2"
+  }
+}

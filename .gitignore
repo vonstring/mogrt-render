@@ -1,0 +1,4 @@
+*.mp4
+.DS_Store
+*.mogrt
+node_modules/
